@@ -38,8 +38,8 @@ z-index: 99
 
 
 .logo {
-    height: 100px;
-    width: 100px;
+    height: 75px;
+    width: 75px;
     margin-top: 0px;
     margin-left: 10px;
 }
@@ -68,20 +68,26 @@ z-index: 99
     height: 50px;
   }
   
-  @media (max-width: 699px) {
+  @media (max-width: 700px) {
     .svg--lg {
       display: none;
     }
     .marketing-img {
-      width: 50px;
+      margin-left: 75px;
+      display: flex;
+      width: 200px;
+      height: 100px;
+    }
+    .guarantee {
+      display: flex;
     }
     .about {
         margin-top: 20px;
     }
-.img {
+.img1 {
         margin-right: 15px;
-        margin-left: 125px;
-        width: 60%;
+        margin-left: 75px;
+        width: 70%;
         height: 500px;
         margin-top: 175px;
         margin-bottom: 50px;
@@ -138,11 +144,13 @@ z-index: 99
     align-items: center;
     width: 50%;
    }
-
+.abt1 {
+  display: flex;
+}
    .center {
     box-sizing: border-box;
     color: rgb(33, 37, 41);
-    display: block;
+    display: flex;
     font-family: gordita;
     font-size: 15px;
     font-weight: 400;
@@ -163,7 +171,16 @@ z-index: 99
     padding-top: 0px;
     text-align: start;
     visibility: visible;
-    width: 100px
+    width: 50%px
+  }
+  .strategy {
+    
+  }
+  .www {
+    display: flex;
+  }
+  .what-we-do {
+    margin-left: 30px;
   }
 
 .why {
@@ -190,6 +207,9 @@ z-index: 99
   .why h1 {
     margin-bottom: 30px;
 }
+.marketing-img {
+  width: ;
+}
 #contact {
     padding-top: 50px;
     padding-bottom: 50px;
@@ -197,7 +217,19 @@ z-index: 99
     margin-bottom: 50px;
   }
 
+  .center ul li{
+    margin: 10px;
   }
+.strategy-text {
+  width: 430px;
+  display: flex;
+}
+.calendly-inline-widget {
+  padding-top: 150px;
+  display: block
+}
+  }
+
 
   
   @media (min-width: 700px) {
@@ -513,7 +545,7 @@ width: 150px;
     align-items: center;
     margin-top: 30px;
  }
- .container .contactInfo
+
 
   
 
