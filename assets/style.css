@@ -67,7 +67,51 @@ z-index: 99
     width: 100%;
     height: 50px;
   }
+  @media screen and (max-width: 767px) {
+    /* Adjust styles for mobile devices */
+    .header {
+      padding: 10px;
+    }
   
+    .header h1 {
+      font-size: 24px;
+    }
+  
+    .about {
+      /* Add any styles specific to the about section for mobile devices */
+    }
+  
+    .img {
+      /* Add any styles specific to images for mobile devices */
+    }
+  
+    .tagline {
+      margin-bottom: 10px;
+    }
+  
+    .heading1 {
+      /* Add any styles specific to headings for mobile devices */
+    }
+  
+    .client {
+      /* Add any styles specific to the client section for mobile devices */
+    }
+  
+    .main-page {
+      /* Add any styles specific to the main-page section for mobile devices */
+    }
+  
+    .why {
+      /* Add any styles specific to the why section for mobile devices */
+    }
+  
+    .strategy {
+      padding: 10px;
+    }
+  
+    .footer {
+      padding: 10px;
+    }
   @media (max-width: 699px) {
     .svg--lg {
       display: none;
