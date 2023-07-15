@@ -70,7 +70,7 @@ z-index: 99
   @media screen and (max-width: 767px) {
     /* Adjust styles for mobile devices */
     .header {
-      padding: 10px;
+      
     }
   
     .header h1 {
