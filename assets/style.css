@@ -73,10 +73,15 @@ z-index: 99
       display: none;
     }
     .marketing-img {
-      margin-left: 75px;
+      margin-left: 100px;
+    }
+    
+    .marketing-img img{
+      max-width: 50%;
+      height: auto;
+      margin-left: 800px;
       display: flex;
-      width: 200px;
-      height: 100px;
+      border: 5px solid lightgrey;
     }
     .guarantee {
       display: flex;
@@ -230,7 +235,7 @@ z-index: 99
 }
 iframe {
   margin-top: 30px;
-  margin-left: 120px;
+  margin-left: 100px;
 }
   }
 
