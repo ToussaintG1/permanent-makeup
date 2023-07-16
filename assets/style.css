@@ -176,7 +176,7 @@ z-index: 99
     padding-top: 0px;
     text-align: start;
     visibility: visible;
-    width: 50%px
+    width: 50px
   }
   .strategy {
     
@@ -224,9 +224,10 @@ z-index: 99
 
   .center ul li{
     margin: 10px;
+    width: 350px;
   }
 .strategy-text {
-  width: 430px;
+  width: 400px;
   display: flex;
 }
 .calendly-inline-widget {
@@ -235,7 +236,7 @@ z-index: 99
 }
 iframe {
   margin-top: 30px;
-  margin-left: 100px;
+  margin-left: 80px;
 }
   }
 
