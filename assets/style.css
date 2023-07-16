@@ -75,7 +75,7 @@ z-index: 99
     .marketing-img {
       margin-left: 100px;
     }
-    
+
     .marketing-img img{
       max-width: 50%;
       height: auto;
@@ -532,8 +532,8 @@ width: 150px;
  }
  .calendly-inline-widget {
     margin-top: 50px;
-    margin-left: px;
-    padding-right: 25px;
+    margin-left: -50px;
+    padding-right: 150px;
  }
  .contact .content {
     max-width: 880px;
