@@ -36,6 +36,15 @@ width: 100%;
 z-index: 99
 }
 
+.img1 {
+  width: 500px;
+  height: 300px;
+  margin-top: 250px;
+  margin-left: 75px
+  margin-bottom: 100px;
+  border: solid #4B0082 5px
+
+}
 
 .logo {
     height: 75px;
@@ -87,14 +96,14 @@ z-index: 99
       display: flex;
     }
     .about {
-        margin-top: 20px;
+        margin-top: 200px;
     }
 .img1 {
-        margin-right: 15px;
-        margin-left: 75px;
-        width: 70%;
-        height: 500px;
-        margin-top: 175px;
+        margin-right: 65px;
+        margin-left: 30px;
+        width: 80%;
+        height: 250px;
+        margin-top: 300px;
         margin-bottom: 50px;
         border: #4B0082 5px solid;
     }
@@ -151,6 +160,7 @@ z-index: 99
    }
 .abt1 {
   display: flex;
+  width: 475px;
 }
    .center {
     box-sizing: border-box;
