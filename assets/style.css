@@ -160,7 +160,8 @@ z-index: 99
    }
 .abt1 {
   display: flex;
-  width: 400px;
+  width: 350px;
+  margin-bottom: 30px;
 }
    .center {
     box-sizing: border-box;
