@@ -77,7 +77,7 @@ z-index: 99
     height: 50px;
   }
   
-  @media (max-width: 550px) {
+  @media (max-width: 600px) {
     .svg--lg {
       display: none;
     }
@@ -187,7 +187,7 @@ z-index: 99
     padding-top: 0px;
     text-align: start;
     visibility: visible;
-    width: 50px
+    width: 100px
   }
   .strategy {
     
@@ -244,6 +244,8 @@ z-index: 99
 .calendly-inline-widget {
   padding-top: 150px;
   display: block
+  padding-right: 200px;
+}
 }
 iframe {
   margin-top: 30px;
@@ -545,6 +547,7 @@ width: 150px;
  .calendly-inline-widget {
     margin-top: 50px;
     padding-right: 150px;
+    margin-right: 100px;
  }
  .contact .content {
     max-width: 880px;
