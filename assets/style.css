@@ -122,7 +122,7 @@ z-index: 99
       padding-top: 0px;
       text-align: start;
       visibility: visible;
-      width: 350px
+      width: 450px
     }
     .unordered-list {
       margin-right: 50px;
@@ -189,7 +189,7 @@ z-index: 99
    }
 .abt1 {
   display: flex;
-  width: 350px;
+  width: 450px;
   margin-bottom: 30px;
 }
    .center {
@@ -263,7 +263,7 @@ z-index: 99
   }
 
  ul {
-  margin-right: 75px;
+  margin-right: 50px;
 }
   .center ul li{
     margin: 10px;
