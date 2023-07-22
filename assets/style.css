@@ -98,6 +98,32 @@ z-index: 99
     .about {
         margin-top: 200px;
     }
+
+    .center1 {
+      color: rgb(33, 37, 41);
+      display: flex;
+      font-family: gordita;
+      font-size: 15px;
+      font-weight: 400;
+      height: 168px;
+      letter-spacing: -0.5px;
+      line-height: 24.299999px;
+      margin-block-end: 30px;
+      margin-block-start: 20px;
+      margin-bottom: 100px;
+      margin-inline-end: 0px;
+      margin-inline-start: 0px;
+      margin-left: 30px;
+      margin-right: 0px;
+      margin-top: 20px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+      padding-right: 0px;
+      padding-top: 0px;
+      text-align: start;
+      visibility: visible;
+      width: 350px
+    }
     .unordered-list {
       margin-right: 50px;
     }
