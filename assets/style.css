@@ -189,7 +189,7 @@ z-index: 99
    }
 .abt1 {
   display: flex;
-  width: 450px;
+  width: 400px;
   margin-bottom: 30px;
 }
    .center {
@@ -262,21 +262,19 @@ z-index: 99
     margin-bottom: 50px;
   }
 
- ul {
-  margin-right: 50px;
-}
+
   .center ul li{
     margin: 10px;
     width: 300px;
   }
 .strategy-text {
-  width: 300px;
+  width: 100px;
   display: flex;
 }
 .calendly-inline-widget {
   padding-top: 150px;
   display: block
-  padding-right: 200px;
+  padding-right: 125px;
 }
 }
 iframe {
@@ -578,7 +576,7 @@ width: 150px;
  }
  .calendly-inline-widget {
     margin-top: 50px;
-    padding-right: 150px;
+    padding-right: 50px;
     margin-right: 100px;
  }
  .contact .content {
